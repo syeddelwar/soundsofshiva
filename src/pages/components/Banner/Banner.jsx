@@ -23,7 +23,7 @@ const Banner = () => {
         <div className="bg-black/70 z-10 inset-0 absolute w-full h-full"></div>
 
         <div className="absolute z-40 top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
-          <p data-aos="fade-down" className="text-yellow text-4xl text-center font-semibold">2 September , 2023</p>
+          <p data-aos="fade-down" className="text-yellow text-4xl text-center font-semibold"> 7 October , 2023</p>
           <h2 data-aos="fade-down" className="text-white text-7xl text-center mt-8 font-bold">Sounds of Shiva </h2>
           <h2 data-aos="fade-up" className="text-white text-7xl text-center mt-2 font-bold">Event  2023 </h2>
           <div className="flex items-center justify-between mt-12 mb-20">
