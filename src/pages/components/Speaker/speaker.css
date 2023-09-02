@@ -1,0 +1,8 @@
+.speaker-bg{
+    background: url('../../../assets/img/speaker-bg.jpg');
+    background-image: linear-gradient( to ,rgba(0,0,0,0.9),rgba(0,0,0,0.9)) ,url("../../../assets/img/speaker-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}

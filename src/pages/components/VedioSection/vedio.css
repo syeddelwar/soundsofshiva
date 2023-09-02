@@ -1,0 +1,21 @@
+.vedio-bg{
+    background-image: url('../../../assets/img/vedio.jpg');
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 120px 0 140px;
+    background-attachment: fixed;
+    
+}
+
+
+.vedio-bg::before{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to left, rgba(247,0,104) 0%,rgba(68,16,102,1) 100%);
+    opacity: .70;
+    content: "";
+}

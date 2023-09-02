@@ -1,0 +1,18 @@
+.sponcer-bg {
+    position: relative;
+}
+.sponcer-bg::after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url('../../../assets/img/icon-dots-2.png');
+    content: "";
+    opacity: .02;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    -webkit-transform: scale(-1);
+    transform: scale(-1);
+}
