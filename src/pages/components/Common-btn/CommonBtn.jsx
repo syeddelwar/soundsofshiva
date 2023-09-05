@@ -5,7 +5,7 @@ const CommonBtn = () => {
     <>
    
    
-   <a href ="https://www.eventbrite.com/e/711710213407?aff=oddtdtcreator" > <button className="Btn bg-secondary ">
+   <a href ="https://soundsofshiva.eventsmart.com/events/chapter-one-peumayen-nompuehuenu/" > <button className="Btn bg-secondary ">
     
    Get Tickets </button></a>
     

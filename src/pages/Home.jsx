@@ -20,17 +20,17 @@ const Home = () => {
    
       <Banner></Banner>
       <AboutEvent></AboutEvent>
-      <FeatureSection></FeatureSection>
+      {/* <FeatureSection></FeatureSection>
       <SpeakerSection></SpeakerSection>
       <Counter></Counter>
       <SchedulePlan></SchedulePlan>
       <PricingPlan></PricingPlan>
-      <VedioSection></VedioSection>
-      <Evemt></Evemt>
-      <Sponcers></Sponcers>
-      <Contact></Contact>
-      <Blog></Blog>
+      <VedioSection></VedioSection> */}
+      {/* <Evemt></Evemt>
+      <Sponcers></Sponcers> */}
       
+      <Blog></Blog>
+      <Contact></Contact>
       <Footer></Footer>
     </>
   );

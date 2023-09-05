@@ -37,20 +37,20 @@ const Navbar = () => {
           
             </li>
 
-            <li>
+            {/* <li>
             
 
 				 <a href="#speakers" className="font-semibold text-[17px] text-white hover:text-secondary"> Speakers</a>
                
              
-            </li>
-
+            </li> */}
+{/* 
             <li>
            
               <a  href="#schedule" className="font-semibold text-[17px] text-white hover:text-secondary">
                 Schedule
               </a>
-            </li>
+            </li> */}
 
             <li>
            
@@ -59,7 +59,7 @@ const Navbar = () => {
                 className=" border-secondary font-semibold text-[17px] text-white hover:text-secondary
 			 "
               >
-                Blog
+                Event
               </a>
             </li>
 

@@ -13,23 +13,34 @@ const AboutEvent = () => {
          <div data-aos="fade-right"
      data-aos-offset="300"
      data-aos-easing="ease-in-sine" className="left w-full lg:w-[50%] ">
-            <p className="uppercase tracking-[5px] ">about event</p>
-            <h2 className="text-[42px] mt-3 text-black/90 font-semibold tracking-wide">Welcome to Sounds of Shiva</h2>
+            {/* <p className="uppercase tracking-[5px] ">about event</p> */}
+            <h2 className="text-[42px] mt-3 text-black/90 font-semibold tracking-wide">Dear Psychedelic Visionaries and Warriors,</h2>
           
             <p className="max-w-[560px] my-5 text-gray-500">
                
-                  
+                   Welcome to Sounds of Shiva, a collective that melds the artistic expression of Psychedelic Trance, crafting unique gatherings that take place anywhere at any time, from an open field to a mountain valley or urban habit to be found. Mindful of our environment, we focus on experiences that honor both natural landscapes and man made spaces.
+           </p>
+           <p className="max-w-[560px] my-5 text-gray-500">
+               
+           We invite every soul, of any age, race, gender, creed or belief system to join us on this journey to find our way home - a world for for all, a sanctuary where acceptance & tolerance reigns supreme, and love flourishes.
+       </p>
+       <p className="max-w-[560px] my-5 text-gray-500">
+               
+       Emphasizing active participation, we cultivate a culture that empowers all to connect, explore, and enrich our collective journey. Here, love, peace, and understanding are not mere words; they form our guiding principles, celebrating differences and embracing individuality.
+      </p>
+      <p className="max-w-[560px] my-5 text-gray-500">
+               
+      Embark with us on this incredibly amazing adventure we re about to undertake, where every beat calls to exploration, every dance is a shared delight, and each moment is a step toward a more compassionate world.
 
- A collective that melds the artistic expression of Psychedelic Trance, crafting unique gatherings that take place anywhere at any time, from an open field to a mountain valley or urban habit to be found. Mindful of our environment, we focus on experiences that honor both natural landscapes and man made spaces.
+      <p>You are our inspiration; your presence is our joy.</p>
 
-We invite every soul, of any age, race, gender, creed or belief system to join us on this journey to find our way home - a world for for all, a sanctuary where acceptance & tolerance reigns supreme, and love flourishes.
+      <p className="max-w-[560px] my-5 text-gray-500"></p> With rhythm and resonance, <br/>
+           <strong>Sounds of Shiva</strong>
+              </p>
+        
 
-Emphasizing active participation, we cultivate a culture that empowers all to connect, explore, and enrich our collective journey. Here, love, peace, and understanding are not mere words; they form our guiding principles, celebrating differences and embracing individuality.
 
-Embark with us on this incredibly amazing adventure we're about to undertake, where every beat calls to exploration, every dance is a shared delight, and each moment is a step toward a more compassionate world.
 
-You are our inspiration; your presence is our joy.
-.</p>
 
             {/* <ul className='space-y-3'>
                <div className="flex items-center space-x-3 text-gray-800">

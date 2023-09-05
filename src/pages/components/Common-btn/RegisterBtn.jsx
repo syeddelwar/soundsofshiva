@@ -5,7 +5,7 @@ const RegisterBtn = () => {
   return (
     <>
 
-    <button className='btn-2'> <a href ="https://www.eventbrite.com/e/711710213407?aff=oddtdtcreator" >Register Now</a></button>
+    <button className='btn-2'> <a href ="https://soundsofshiva.eventsmart.com/events/chapter-one-peumayen-nompuehuenu/" >Register Now</a></button>
 
     </>
   )

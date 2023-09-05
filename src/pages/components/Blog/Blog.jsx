@@ -9,8 +9,8 @@ const Blog = () => {
 
       <div className="my-28 px-5 md:px-10 lg:px-5 xl:px-0" id="blog">
          <div className="flex flex-col justify-center  ">
-                <p className="uppercase tracking-[5px] text-center ">BLOGS</p>
-            <h2 className="text-[45px]  text-black/90 font-semibold tracking-wide text-center">Latest News</h2>
+                <p className="uppercase tracking-[5px] text-center ">Events</p>
+            <h2 className="text-[45px]  text-black/90 font-semibold tracking-wide text-center">Event</h2>
                 </div>
 
                 <div className="grid gap-5 mt-8 mx-auto max-w-6xl grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
